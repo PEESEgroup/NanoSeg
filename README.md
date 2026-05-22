@@ -45,8 +45,7 @@ NanoSeg/
 ├── metrics.py
 ├── postprocess.py
 ├── utils.py
-├── requirements.txt
-└── data/
+└── requirements.txt
 ```
 
 ---
