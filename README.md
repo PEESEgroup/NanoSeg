@@ -3,7 +3,7 @@
 NanoSeg is a one-shot nanoparticle segmentation framework for electron microscopy images based on the Segment Anything Model (SAM). The pipeline integrates automatic prompt generation, prompt-guided segmentation, postprocessing, and particle-level descriptor extraction for reproducible catalyst microscopy analysis.
 
 The framework supports:
-- one-shot SAM segmentation
+- one-shot segmentation
 - automatic bbox prompt generation
 - reference image selection
 - segmentation benchmarking
